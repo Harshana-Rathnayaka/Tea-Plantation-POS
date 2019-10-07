@@ -1,0 +1,11 @@
+F:\Documents\Projects\C#\Tea Plantaion POS\Tea Plantaion POS\bin\Debug\Tea Plantaion POS.exe
+F:\Documents\Projects\C#\Tea Plantaion POS\Tea Plantaion POS\bin\Debug\Tea Plantaion POS.pdb
+F:\Documents\Projects\C#\Tea Plantaion POS\Tea Plantaion POS\obj\Debug\Tea Plantaion POS.csprojResolveAssemblyReference.cache
+F:\Documents\Projects\C#\Tea Plantaion POS\Tea Plantaion POS\obj\Debug\Tea_Plantaion_POS.Form2.resources
+F:\Documents\Projects\C#\Tea Plantaion POS\Tea Plantaion POS\obj\Debug\Tea_Plantaion_POS.Properties.Resources.resources
+F:\Documents\Projects\C#\Tea Plantaion POS\Tea Plantaion POS\obj\Debug\Tea Plantaion POS.csproj.GenerateResource.Cache
+F:\Documents\Projects\C#\Tea Plantaion POS\Tea Plantaion POS\obj\Debug\Tea Plantaion POS.exe
+F:\Documents\Projects\C#\Tea Plantaion POS\Tea Plantaion POS\obj\Debug\Tea Plantaion POS.pdb
+F:\Documents\Projects\C#\Tea Plantaion POS\Tea Plantaion POS\obj\Debug\Tea_Plantaion_POS.Form3.resources
+F:\Documents\Projects\C#\Tea Plantaion POS\Tea Plantaion POS\obj\Debug\Tea_Plantaion_POS.Form4.resources
+F:\Documents\Projects\C#\Tea Plantaion POS\Tea Plantaion POS\obj\Debug\Tea_Plantaion_POS.Form1.resources
